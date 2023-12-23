@@ -4,7 +4,7 @@
 B.S. Finance, M.S. Sports Technology, MBA Analytics
 
 ### Work Experience
-Military Intelligence Officer @ US Army
+Military Intelligence Officer @ US Army, 
 Investment Associate @ US Bank
 - Graduate Project 1!
 - Graduate Project 2!
