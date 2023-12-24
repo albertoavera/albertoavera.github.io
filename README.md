@@ -19,6 +19,9 @@ S&P 500 Financial Network,
 Tri-State Real Estate Market 2023,
 NFL Games 2014-2018 Analysis
 
-<h2>👨‍💻 Financial Network Projects:</h2>
+<h2>👨‍💻 Project Links:</h2>
+
+- <b>S&P 500 Financial Network Analysis (AlgoExpert)</b>
+  - [S&P Analysis in Python](https://github.com/albertoavera/Financial Network Analysis.ipynb)
 
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSL4X2a9R4EI-VM13wgiVbkbTFW4C5_v531rm4ksBWmkLJcmK2G9LSBPOJUfJ9u7iSXujRsb_Kib_Ls/embed?          start=true&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
