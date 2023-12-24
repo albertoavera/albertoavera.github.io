@@ -32,12 +32,10 @@ NFL Games 2014-2018 Analysis
 
 <h2> 🤳 Connect with me:</h2>
 
-<div style="margin-bottom: 10px;">
+
     [<img align="left" alt="AlbertoVera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-</div>
-<div>
+
     [<img align="left" alt="AlbertoVera | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-</div>
 
 [linkedin]: https://linkedin.com/in/albertoavera
 [youtube]: https://www.youtube.com/channel/UCJA2Q7NMA2sNoCzqByj6Ysw
