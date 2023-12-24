@@ -29,4 +29,5 @@ NFL Games 2014-2018 Analysis
 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: https://linkedin.com/in/albertoavera
+
 [youtube]: https://www.youtube.com/channel/UCJA2Q7NMA2sNoCzqByj6Ysw
