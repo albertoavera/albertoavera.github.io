@@ -3,14 +3,14 @@
 Al is a very detail-oriented analytical thinker who carries years of expertise in people management, accounting, finance, sales, and data analytics. He is a New Jersey native that currently resides in Woodbridge, NJ.  He is an esteemed alum of both Rutgers University and the Stevens Institute of Technology. Please refer to the links provided to see his latest projects and research.
 
 ### Hobbies
-When he is not hard at work Al spends his weekends enjoying his favorite hobbies of running, watching live sports, and spending time with his dogs. 
+Running, watching live sports, billiards, and spending time with his dogs. 
 
 ### Education
 B.S. Finance, M.S. Sports Technology, MBA Analytics
 
 ### Work Experience
 Military Intelligence Officer @ US Army, 
-Investment Associate @ US Bank,
+Former Investment Associate @ US Bank,
 Former Intern @ Real Madrid Next
 
 ### Technical Skills
@@ -31,5 +31,9 @@ NFL Games 2014-2018 Analysis
   - [Real Estate Market Analysis in Python](https://github.com/albertoavera/Tri_State_Market)
 
 <h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="AlbertoVera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AlbertoVera | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 [linkedin]: https://linkedin.com/in/albertoavera
 [youtube]: https://www.youtube.com/channel/UCJA2Q7NMA2sNoCzqByj6Ysw
