@@ -23,3 +23,6 @@ NFL Games 2014-2018 Analysis
 
 - <b>S&P 500 Financial Network Analysis</b>
   - [S&P Analysis in Python](https://github.com/albertoavera/S-P-Financial-Network-)
+ 
+- <b>Tri-State Real Estate Market Fall 2023</b>
+  - [Real Estate Market Analysis in Python](https://github.com/albertoavera/Tri_State_Market)
