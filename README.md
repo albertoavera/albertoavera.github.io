@@ -1,6 +1,6 @@
 # Analytics MBA
 ### Bio
-Al is a very detail-oriented analytical thinker who carries years of expertise in people management, accounting, finance, sales, and data analytics. He is a New Jersey native that currently resides in Woodbridge, NJ.  Please refer to the links provided to see his latest projects and research.
+Al is a very detail-oriented analytical thinker who carries years of expertise in people management, accounting, finance, sales, and data analytics. He is a New Jersey native that currently resides in Woodbridge, NJ.  He is an esteemed alum of both Rutgers University and the Stevens Institute of Technology.  When he is not hard at work Al spends his weekends enjoying his favorite hobbies of running, watching live sports, and spending time with dogs. Please refer to the links provided to see his latest projects and research.
 
 ### Education
 B.S. Finance, M.S. Sports Technology, MBA Analytics
