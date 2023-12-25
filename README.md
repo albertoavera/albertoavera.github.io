@@ -8,6 +8,9 @@ Running, watching live sports, billiards, and spending time with his dogs.
 ### Education
 B.S. Finance, M.S. Sports Technology, MBA Analytics
 
+### Certifications
+IBM Data Analyst (In Progress: Jan 17th Estimated Completion Date)
+
 ### Work Experience
 Military Intelligence Officer @ US Army, 
 Former Investment Associate @ US Bank,
