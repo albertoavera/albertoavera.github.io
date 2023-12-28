@@ -17,7 +17,7 @@ Former Investment Associate @ US Bank,
 Former Intern @ Real Madrid Next
 
 ### Technical Skills
-Microsoft Suite, Python, R, SQL, Tableau, Bower BI, Google Sheets
+Microsoft Suite, Python, R, SQL, Tableau, Power BI, Google Sheets, Cognos Analytics
 
 ### Academic Projects
 U.S. Border Security 2023,
