@@ -9,7 +9,7 @@ Running, watching live sports, billiards, and spending time with his dogs.
 B.S. Finance, M.S. Sports Technology, MBA Analytics
 
 ### Certifications
-IBM Data Analyst (In Progress)
+IBM Data Analyst (In Progress), Tableau Business Intelligence Analyst (In Progress)
 
 ### Work Experience
 Military Intelligence Officer @ US Army, 
