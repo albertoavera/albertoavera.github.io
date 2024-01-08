@@ -1,7 +1,7 @@
 # Analytics MBA
 ### Bio
 Hello everyone!
-My name is Alberto or Al as most people call me.  I am a very detail-oriented analytical thinker who carries years of expertise in people management, accounting, finance, sales, and data analytics. I am a New Jersey native that currently resides in Woodbridge, NJ. I am an esteemed alum of both Rutgers University and the Stevens Institute of Technology. Please refer to the links provided below to see my latest projects and research. **Please be aware at this time this is much more to come shortly**
+My name is Alberto or Al as most people call me.  I am a very detail-oriented analytical thinker who carries years of expertise in people management, accounting, finance, sales, and data analytics. I am a New Jersey native that currently resides in Woodbridge, NJ. I am an esteemed alum of both Rutgers University and the Stevens Institute of Technology. Please refer to the links provided below to see my latest projects and research. **Please be aware at this time there is more to be added shortly**
 
 ### Hobbies
 Running, watching live sports, billiards, and spending time with his dogs. 
