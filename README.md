@@ -7,7 +7,7 @@ Pleasure to have you visit my professional portfolio, my name is Alberto or Al a
 Please refer to the links provided below to see my latest projects and research. **Please be aware at this time there is more to be added shortly**
 
 ### Hobbies
-Running, watching live sports, billiards, and spending time with his dogs. 
+Running, watching live sports, billiards, and spending time with my dogs. 
 
 ### Education
 B.S. Finance, M.S. Sports Technology, MBA Analytics
