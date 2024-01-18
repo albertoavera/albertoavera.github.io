@@ -36,6 +36,12 @@ NFL Games 2014-2018 Analysis
  
 - <b>Tri-State Real Estate Market Fall 2023</b>
   - [Real Estate Market Analysis in Python](https://github.com/albertoavera/Tri_State_Market)
+ 
+<h2>💻 Tableau Public Link:</h2> 
+
+[<img style="margin-right: 10px; display: inline-block;" alt="AlbertoVera | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />][tableau]
+
+[tableau]: https://public.tableau.com/app/profile/alberto.vera/vizzes
 
 <h2> 🤳 Connect with me:</h2>
 
