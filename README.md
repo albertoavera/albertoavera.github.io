@@ -37,7 +37,7 @@ NFL Games 2014-2018 Analysis
 - <b>Tri-State Real Estate Market Fall 2023</b>
   - [Real Estate Market Analysis in Python](https://github.com/albertoavera/Tri_State_Market)
  
-- <b>NFL Games 2014-2018 Analysis Spring 2023</b>
+- <b>NFL Games 2014-2018 Analysis</b>
   - [NFL Games 2014-2018 Seasons](https://github.com/albertoavera/NFL-Games-2014-2018-Subset)
  
 <h2>💻 Tableau Public Link:</h2> 
