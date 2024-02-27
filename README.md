@@ -10,10 +10,10 @@ Please refer to the links provided below to see my latest projects and research.
 Running, watching live sports, billiards, and spending time with my dogs. 
 
 ### Education
-B.S. Finance, M.S. Sports Technology, MBA Analytics
+B.S. Finance, M.S. Sports Technology, MBA in Analytics
 
 ### Certifications
-IBM Data Analyst (In Progress), Tableau Business Intelligence Analyst
+IBM Data Analyst, Tableau Business Intelligence Analyst
 
 ### Work Experience
 Military Intelligence Officer @ US Army, 
@@ -39,6 +39,9 @@ NFL Games 2014-2018 Analysis
  
 - <b>NFL Games 2014-2018 Analysis</b>
   - [NFL Games 2014-2018 Seasons](https://github.com/albertoavera/NFL-Games-2014-2018-Subset)
+ 
+- <b>IBM Captsone Project</b>
+  - [Stack Overflow Developer Dashboard](https://github.com/albertoavera/IBM-Capstone-Project)
  
 <h2>💻 Tableau Public Link:</h2> 
 
