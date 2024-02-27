@@ -40,7 +40,7 @@ NFL Games 2014-2018 Analysis
 - <b>NFL Games 2014-2018 Analysis</b>
   - [NFL Games 2014-2018 Seasons](https://github.com/albertoavera/NFL-Games-2014-2018-Subset)
  
-- <b>IBM Captsone Project</b>
+- <b>IBM Capstone Project</b>
   - [Stack Overflow Developer Dashboard](https://github.com/albertoavera/IBM-Capstone-Project)
  
 <h2>💻 Tableau Public Link:</h2> 
